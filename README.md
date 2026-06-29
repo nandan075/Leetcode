@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nandan075/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nandan075/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nandan075/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nandan075/Leetcode/tree/master/0066-plus-one) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nandan075/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nandan075/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
