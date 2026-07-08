@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nandan075/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nandan075/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
 | [3945-digit-frequency-score](https://github.com/nandan075/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nandan075/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
