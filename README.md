@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nandan075/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nandan075/Leetcode/tree/master/0258-add-digits) |
 | [3945-digit-frequency-score](https://github.com/nandan075/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/nandan075/Leetcode/tree/master/0258-add-digits) |
 ## Trie
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nandan075/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
