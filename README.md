@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nandan075/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/nandan075/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/nandan075/Leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nandan075/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/nandan075/Leetcode/tree/master/0326-power-of-three) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nandan075/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nandan075/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Bit Manipulation
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nandan075/Leetcode/tree/master/0326-power-of-three) |
 ## Number Theory
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/nandan075/Leetcode/tree/master/0223-rectangle-area) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
