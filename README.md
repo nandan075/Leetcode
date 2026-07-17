@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nandan075/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nandan075/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nandan075/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nandan075/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nandan075/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/nandan075/Leetcode/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nandan075/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nandan075/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nandan075/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/nandan075/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nandan075/Leetcode/tree/master/0258-add-digits) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nandan075/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nandan075/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
