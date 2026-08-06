@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nandan075/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nandan075/Leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/nandan075/Leetcode/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/nandan075/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/nandan075/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nandan075/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/nandan075/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/nandan075/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
