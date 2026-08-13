@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nandan075/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nandan075/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nandan075/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/nandan075/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/nandan075/Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/nandan075/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/nandan075/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/nandan075/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/nandan075/Leetcode/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/nandan075/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nandan075/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nandan075/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/nandan075/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/nandan075/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nandan075/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
