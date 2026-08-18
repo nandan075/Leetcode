@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nandan075/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nandan075/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nandan075/Leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/nandan075/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nandan075/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/nandan075/Leetcode/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nandan075/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0541-reverse-string-ii](https://github.com/nandan075/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/nandan075/Leetcode/tree/master/0649-dota2-senate) |
 ## Bit Manipulation
 |  |
