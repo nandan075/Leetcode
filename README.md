@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nandan075/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandan075/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nandan075/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/nandan075/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nandan075/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nandan075/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nandan075/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/nandan075/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3945-digit-frequency-score](https://github.com/nandan075/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
