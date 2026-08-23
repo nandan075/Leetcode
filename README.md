@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nandan075/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/nandan075/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nandan075/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nandan075/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandan075/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nandan075/Leetcode/tree/master/0877-stone-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nandan075/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nandan075/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nandan075/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nandan075/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/nandan075/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nandan075/Leetcode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
