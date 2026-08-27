@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/nandan075/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/nandan075/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/nandan075/Leetcode/tree/master/0649-dota2-senate) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nandan075/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
