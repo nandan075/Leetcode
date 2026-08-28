@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nandan075/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nandan075/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandan075/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/nandan075/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/nandan075/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nandan075/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nandan075/Leetcode/tree/master/0877-stone-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nandan075/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/nandan075/Leetcode/tree/master/0682-baseball-game) |
 ## Trie
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nandan075/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/nandan075/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/nandan075/Leetcode/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
 | ------- |
