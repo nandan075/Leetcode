@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nandan075/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandan075/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nandan075/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2540-minimum-common-value](https://github.com/nandan075/Leetcode/tree/master/2540-minimum-common-value) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nandan075/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nandan075/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/nandan075/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nandan075/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/nandan075/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2540-minimum-common-value](https://github.com/nandan075/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nandan075/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nandan075/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandan075/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2540-minimum-common-value](https://github.com/nandan075/Leetcode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nandan075/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nandan075/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nandan075/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2540-minimum-common-value](https://github.com/nandan075/Leetcode/tree/master/2540-minimum-common-value) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nandan075/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3945-digit-frequency-score](https://github.com/nandan075/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
