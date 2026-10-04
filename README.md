@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nandan075/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nandan075/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandan075/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/nandan075/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nandan075/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2540-minimum-common-value](https://github.com/nandan075/Leetcode/tree/master/2540-minimum-common-value) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nandan075/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nandan075/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nandan075/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/nandan075/Leetcode/tree/master/0682-baseball-game) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/nandan075/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2390-removing-stars-from-a-string](https://github.com/nandan075/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nandan075/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nandan075/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nandan075/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/nandan075/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
