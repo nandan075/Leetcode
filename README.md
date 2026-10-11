@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandan075/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/nandan075/Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/nandan075/Leetcode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/nandan075/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nandan075/Leetcode/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nandan075/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nandan075/Leetcode/tree/master/0412-fizz-buzz) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nandan075/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nandan075/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nandan075/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/nandan075/Leetcode/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/nandan075/Leetcode/tree/master/0454-4sum-ii) |
 | [2540-minimum-common-value](https://github.com/nandan075/Leetcode/tree/master/2540-minimum-common-value) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nandan075/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nandan075/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/nandan075/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nandan075/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandan075/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Prefix Sum
 |  |
