@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/nandan075/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nandan075/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2540-minimum-common-value](https://github.com/nandan075/Leetcode/tree/master/2540-minimum-common-value) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nandan075/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nandan075/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nandan075/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nandan075/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/nandan075/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/nandan075/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nandan075/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nandan075/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nandan075/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nandan075/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nandan075/Leetcode/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/nandan075/Leetcode/tree/master/0454-4sum-ii) |
 | [2540-minimum-common-value](https://github.com/nandan075/Leetcode/tree/master/2540-minimum-common-value) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nandan075/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nandan075/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3945-digit-frequency-score](https://github.com/nandan075/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
